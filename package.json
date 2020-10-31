@@ -1,0 +1,17 @@
+{
+  "name": "media-manager",
+  "version": "1.0.0",
+  "description": "Manage your media",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdaconceicao/media-manager.git"
+  },
+  "author": "Stephen da Conceicao",
+  "license": "MIT",
+  "homepage": "https://github.com/sdaconceicao/media-manager#readme",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
